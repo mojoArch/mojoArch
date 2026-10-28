@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazli</h1>
 <h3 align="center">A backend-focused software developer based in the Netherlands</h3>
 
-- 🔭 I’m currently working on [Signalshark](https://github.com/mojoArch/SignalShark.git)
+-  I’m currently working on [Signalshark](https://github.com/mojoArch/SignalShark.git)
 
-- 👨‍💻 All of my projects are available at [mrmojodev.nl](mrmojodev.nl)
+-  All of my projects are available at [mrmojodev.nl](mrmojodev.nl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
