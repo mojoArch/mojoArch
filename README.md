@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="inkedin.com/in/nazli-eroglu-191baa370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nazli-eroglu-191baa370" height="30" width="40" /></a>
+<a href="linkedin.com/in/nazli-eroglu-191baa370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nazli-eroglu-191baa370" height="30" width="40" /></a>
 <a href="https://instagram.com/broodjehagelslagxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="broodjehagelslagxx" height="30" width="40" /></a>
 </p>
 
