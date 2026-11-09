@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nazli</h1>
+<h1 align="center">Hi, I'm Nazli </h1>
 <h3 align="center">A backend-focused software developer based in the Netherlands</h3>
 
 -  I’m currently working on [Signalshark](https://github.com/mojoArch/SignalShark.git)
