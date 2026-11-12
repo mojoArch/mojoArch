@@ -1,4 +1,4 @@
-# Hi 👋, I'm MrMojoDev
+# Hi 👋, I'm Nazli 
 
 ### Software DEV
 - I’m currently working on Signalshark
