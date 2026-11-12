@@ -15,12 +15,6 @@ I’m currently working on Signalshark<br><br>All of my projects are available a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mojoArch&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mojoArch&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=mojoArch&icon=0&color=0)](https://visitcount.itsvg.in)
 
