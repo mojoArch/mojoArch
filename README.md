@@ -7,7 +7,7 @@
 
 - How to reach me **nazli.eroglux@gmail.com**
 
-- All of my projects are available at **[https://mrmojodev.nl](https://mrmojodev.nl)**
+- All of my projects are available at  **[https://mrmojodev.nl](https://mrmojodev.nl)**
 
 - Know about my experiences **[https://drive.google.com/file/d/1vl159o2-Yk75QlwpPffP9-XkEX5wkpgk/view?usp=drive_link](https://drive.google.com/file/d/1vl159o2-Yk75QlwpPffP9-XkEX5wkpgk/view?usp=drive_link)**
 
