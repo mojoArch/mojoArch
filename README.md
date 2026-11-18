@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nazli 
 
 ### Software DEV
-- I’m currently working on Signalshark
+- I’m currently working on Signalshark 
   
 - I'm currently learning **Python, PHP, LARAVEL, Javascript, KiCad, Blender**
 
